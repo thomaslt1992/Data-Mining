@@ -12,4 +12,4 @@ Both code and the report has been done for a university assignment, code can be 
 
 However, there are no warranty or scientific concesus and should not be used for academic purposes.
 
-Feel free to explore the idea and comment or commit.
+Feel free to explore the idea and comment or PR for improvements
